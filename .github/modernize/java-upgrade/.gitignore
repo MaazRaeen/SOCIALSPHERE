@@ -1,0 +1,24 @@
+# Application secrets
+src/main/resources/application.properties
+
+# Spring Boot build output
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Frontend dependencies and build
+socialsphere-frontend/node_modules/
+socialsphere-frontend/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
